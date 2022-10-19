@@ -16,15 +16,15 @@ Docker Compose
 ## 🚀 Começando  
 ### 1. Primeiramente, crie um diretório para o seu projeto. 
 ```
-$ mkdir Wordpress 
+mkdir Wordpress 
 ```
 ### 2. Mude para o seu diretório.  
 ```
-$ cd ./Wordpress 
+cd ./Wordpress 
 ```
 ### 3. Crie o arquivo docker-compose.yml e abra em um editor de texto.
 ```
-$ New-Item docker-compose.yml 
+New-Item docker-compose.yml 
 ```
 
 ## 🛠️ Construção do arquivo Docker Compose  
