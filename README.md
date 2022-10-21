@@ -1,4 +1,6 @@
-# WordPress + MYSQL com o Docker Compose   
+# WordPress + MYSQL com o Docker Compose
+
+![Profile views](https://gpvc.arturio.dev/marciahenriquess)
 
 O Compose é uma ferramenta do Docker usada para executar aplicativos de vários containers. Com um comando, através do arquivo YAML é possível criar todos os serviços de configuração: services, volumes e a rede do aplicativo. 
 
